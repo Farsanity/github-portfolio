@@ -14,3 +14,6 @@ models in production.
 -Learning, CNN, RNN, DQN, LSTM, Time Series, NLP, Image Processing
 -Experienced in working with Azure, Azure DevOps, Agile, JIRA, Bitbucket, Github.
 -Certifications: SAFe 6 Product Owner/Product Manager, APMG Change Management Practitioner
+
+
+Image 1 (/assets/eeg_band_discovery.jpeg)
