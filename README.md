@@ -17,3 +17,8 @@ models in production.
 
 
 Image 1 (/assets/eeg_band_discovery.jpeg)
+
+![eeg_band_discovery](https://github.com/Farsanity/github-portfolio/assets/94366850/b1b0eed3-c951-4b65-aece-08f4de72c41a)
+
+
+
